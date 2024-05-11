@@ -1,0 +1,16 @@
+{
+  "name": "uzduotis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "zaidimas":"node --watch ./zaidimas.js",
+    "namu-darbai": "node --watch ./namu-darbai.js",
+    "BMI": "node --watch ./BMI.js",
+    "kintamieji": "node --watch ./kintamieji.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
